@@ -22,7 +22,7 @@ const Navbar = () => {
       justify={"space-between"}
       px={12}
       py={4}
-      position={"fixed"}
+ 
       top={0}
       width={"100%"}
       zIndex={100}
